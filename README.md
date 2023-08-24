@@ -1,6 +1,6 @@
 # button_animation
 
-A new Flutter project.
+https://github.com/ReihanFatilla/ButtonAnimation/assets/88997868/b18183fa-7c5b-4df9-9024-8cab86746a32
 
 ## Getting Started
 
